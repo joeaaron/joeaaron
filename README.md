@@ -4,11 +4,14 @@
 
 ### I'm TPAN
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Suzhou, China.
-- 💬 Ask me about C++, CV and my projects on joeaaron007@gmail.com
-- ⭐ You may like [LearningOpenCV](https://github.com/joeaaron/LearningOpenCV) 
-- ⚡ Fun fact: Data Analysis📊
+- 🔭 I’m currently working on **Luster**
+- 🌱 I’m currently learning **CV**
+- 👯 Currently working in **SuZhou, China**
+- 🤔 I love **Reading, photography**
+- 💬 Ask me about Deep Learning, Python, C++ and my projects
+- 📫 How to reach me: **joeaaron007@gmail.com**
+- 😄 You may like [My Website](https://joeaaron.github.io/)
+- ⚡ Fun fact: **Badminton, Movie**
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -22,7 +25,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 </div>
-
 </td><td valign="top" width="33%">
 
 
