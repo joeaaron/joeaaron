@@ -12,6 +12,8 @@
 
 ### 🛠 技术栈 | Tech Stack
 
+<table><tr><td valign="top" width="33%">
+
 #### DeepLearning  
 
 <div align="center">  
