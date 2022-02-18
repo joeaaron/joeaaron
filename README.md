@@ -10,10 +10,6 @@
 - ⭐ You may like [LearningOpenCV](https://github.com/joeaaron/LearningOpenCV) 
 - ⚡ Fun fact: Data Analysis📊
 
-### About My Github
-
-![Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeaaron&show_icons=true&theme=tokyonight)
-
 ### 🛠 技术栈 | Tech Stack
 
 #### DeepLearning  
@@ -64,6 +60,8 @@
 <br/>
 
 ### 开源项目
+
+![Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeaaron&show_icons=true&theme=tokyonight)
 
 ### 关于我
 
