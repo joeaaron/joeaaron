@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm TPAN
+### I'm Z
 
 - 🔭 I’m currently working on **Luster**
 - 🌱 I’m currently learning **CV**
