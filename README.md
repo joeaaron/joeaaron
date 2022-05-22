@@ -4,7 +4,7 @@
 
 ### I'm Z
 
-- 🔭 I’m currently working on **AI Co.Ltd**
+- 🔭 I’m currently working on **AI Co,.Ltd**
 - 🌱 I’m currently learning **CV**
 - 👯 Currently working in **SuZhou, China**
 - 🤔 I love **Reading, photography**
